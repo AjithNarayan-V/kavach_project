@@ -27,4 +27,21 @@ The model achieved an accuracy of 97.2% on the test set, indicating its effectiv
 
 # Conclusion:
 The 1D CNN model used in this study is a promising approach for detecting malicious websites in real-time. The high accuracy achieved in this study indicates that the model can effectively identify malicious websites and can be used as a component of the larger app designed to flag various fraud indicators in real-time.
+## View of app
+## Homw sceen
+<img width="152" alt="image" src="https://user-images.githubusercontent.com/93816049/233513163-e381ce23-e4dd-45d2-a1a4-70350e1bf354.png">
+
+## URL check page
+<img width="152" alt="image" src="https://user-images.githubusercontent.com/93816049/233512805-3fbf228f-85b5-4a68-911f-7fd26ba955a1.png">
+
+## Live map page
+<img width="151" alt="image" src="https://user-images.githubusercontent.com/93816049/233512921-e5356d48-888c-49ac-9395-3ed04bc2272b.png">
+
+## Reporting page
+<img width="148" alt="image" src="https://user-images.githubusercontent.com/93816049/233513618-79523bfd-05fc-44d4-83c4-5d57e8505560.png">
+
+## Profile Page
+<img width="146" alt="image" src="https://user-images.githubusercontent.com/93816049/233513311-533c06a9-7a34-4df5-ad11-88bf1a397ec9.png">
+
+
 
