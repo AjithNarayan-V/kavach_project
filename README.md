@@ -27,8 +27,8 @@ The model achieved an accuracy of 97.2% on the test set, indicating its effectiv
 
 # Conclusion:
 The 1D CNN model used in this study is a promising approach for detecting malicious websites in real-time. The high accuracy achieved in this study indicates that the model can effectively identify malicious websites and can be used as a component of the larger app designed to flag various fraud indicators in real-time.
-## View of app
-## Home sceen
+# View of app
+## Home screen
 <img width="152" alt="image" src="https://user-images.githubusercontent.com/93816049/233513163-e381ce23-e4dd-45d2-a1a4-70350e1bf354.png">
 
 ## URL check page
@@ -43,5 +43,12 @@ The 1D CNN model used in this study is a promising approach for detecting malici
 ## Profile Page
 <img width="146" alt="image" src="https://user-images.githubusercontent.com/93816049/233513311-533c06a9-7a34-4df5-ad11-88bf1a397ec9.png">
 
+## Flask Website
+![WhatsApp Image 2023-04-13 at 11 40 35 PM](https://user-images.githubusercontent.com/93816049/235405460-9a9577ba-a4dc-4ea9-968f-e0b193e0b3ce.jpeg)
 
+## API Testing
+Following api will be called in app. The respond the ULR class.(BAD CLASS)
+![WhatsApp Image 2023-04-13 at 11 43 27 PM](https://user-images.githubusercontent.com/93816049/235405718-746a944e-c161-4037-83ad-e05489a29de2.jpeg)
+(GOOD CLASS)
+![WhatsApp Image 2023-04-13 at 11 41 10 PM](https://user-images.githubusercontent.com/93816049/235405764-e25afc27-b503-49c9-b71a-4526ec01ee75.jpeg)
 
